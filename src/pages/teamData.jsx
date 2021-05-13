@@ -89,6 +89,14 @@ const teamData = [
     linkedin: "https://www.linkedin.com/in/debasish-mishra-86135b129/",
     instagram: "https://www.instagram.com/debasishmishra31/",
   },
+  {
+    name: "Amreet Kumar Khuntia",
+    image: require("../assets/data/Amreet kumar khuntia.png").default,
+    tagline: "Design Team",
+    github: "https://github.com/AmreetKumarkhuntia",
+    linkedin: "https://www.linkedin.com/in/ak-k-15193220b/",
+    instagram: "https://www.instagram.com/akmaniac123/",
+  },
   
 ];
 
